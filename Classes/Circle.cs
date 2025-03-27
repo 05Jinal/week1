@@ -10,6 +10,7 @@ namespace Week1ObjectOriented.Classes
     {
         public override int GetArea()
         {
+            
             throw new NotImplementedException();
         }
     }
